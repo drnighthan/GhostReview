@@ -1,0 +1,8 @@
+Model,LAIONScore,LAIONScore_Std,ClipScore,StyleLoss,LoRALoss,LoRALoss_NoTM
+AWPainting 1.1_v1.1.safetensors,0.584 ,0.307 ,0.041 ,0.038 ,0.540 ,0.540 
+dreamshaper_7.safetensors,0.362 ,0.388 ,0.547 ,-0.020 ,-0.110 ,-0.110 
+GhostMix-V2.0-fp16-NoVAE,0.191 ,0.388 ,0.262 ,-0.420 ,-0.115 ,-0.115 
+lyriel_v14.safetensors,0.133 ,0.434 ,0.632 ,0.085 ,-0.080 ,-0.080 
+majicmixRealistic_v6.safetensors,-0.746 ,0.355 ,-0.642 ,0.202 ,0.023 ,0.075 
+Moyou_v1020.safetensors,-0.893 ,0.375 ,-1.165 ,0.575 ,0.280 ,0.280 
+revAnimated_v122.safetensors,0.370 ,0.386 ,0.326 ,-0.461 ,-0.539 ,-0.477 

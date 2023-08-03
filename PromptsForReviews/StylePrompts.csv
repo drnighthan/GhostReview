@@ -1,0 +1,73 @@
+,index,Skip,Prompts,Style,sd_model_checkpoint
+0,0,True,"(anime:1.3),1girl,white background,portrait",Anime,GhostMix-V2.0-fp16-NoVAE
+1,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,GhostMix-V2.0-fp16-NoVAE
+2,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,GhostMix-V2.0-fp16-NoVAE
+3,3,True,"(isometric art style:1.3),building, white background,",Isometric,GhostMix-V2.0-fp16-NoVAE
+4,4,True,"(low poly art style:1.3),dog,white background",Low Poly,GhostMix-V2.0-fp16-NoVAE
+5,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,GhostMix-V2.0-fp16-NoVAE
+6,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,GhostMix-V2.0-fp16-NoVAE
+7,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,GhostMix-V2.0-fp16-NoVAE
+8,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,GhostMix-V2.0-fp16-NoVAE
+9,0,True,"(anime:1.3),1girl,white background,portrait",Anime,AWPainting 1.1_v1.1.safetensors
+10,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,AWPainting 1.1_v1.1.safetensors
+11,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,AWPainting 1.1_v1.1.safetensors
+12,3,True,"(isometric art style:1.3),building, white background,",Isometric,AWPainting 1.1_v1.1.safetensors
+13,4,True,"(low poly art style:1.3),dog,white background",Low Poly,AWPainting 1.1_v1.1.safetensors
+14,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,AWPainting 1.1_v1.1.safetensors
+15,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,AWPainting 1.1_v1.1.safetensors
+16,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,AWPainting 1.1_v1.1.safetensors
+17,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,AWPainting 1.1_v1.1.safetensors
+18,0,True,"(anime:1.3),1girl,white background,portrait",Anime,majicmixRealistic_v6.safetensors
+19,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,majicmixRealistic_v6.safetensors
+20,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,majicmixRealistic_v6.safetensors
+21,3,True,"(isometric art style:1.3),building, white background,",Isometric,majicmixRealistic_v6.safetensors
+22,4,True,"(low poly art style:1.3),dog,white background",Low Poly,majicmixRealistic_v6.safetensors
+23,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,majicmixRealistic_v6.safetensors
+24,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,majicmixRealistic_v6.safetensors
+25,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,majicmixRealistic_v6.safetensors
+26,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,majicmixRealistic_v6.safetensors
+27,0,True,"(anime:1.3),1girl,white background,portrait",Anime,dreamshaper_7.safetensors
+28,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,dreamshaper_7.safetensors
+29,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,dreamshaper_7.safetensors
+30,3,True,"(isometric art style:1.3),building, white background,",Isometric,dreamshaper_7.safetensors
+31,4,True,"(low poly art style:1.3),dog,white background",Low Poly,dreamshaper_7.safetensors
+32,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,dreamshaper_7.safetensors
+33,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,dreamshaper_7.safetensors
+34,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,dreamshaper_7.safetensors
+35,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,dreamshaper_7.safetensors
+36,0,True,"(anime:1.3),1girl,white background,portrait",Anime,lyriel_v14.safetensors
+37,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,lyriel_v14.safetensors
+38,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,lyriel_v14.safetensors
+39,3,True,"(isometric art style:1.3),building, white background,",Isometric,lyriel_v14.safetensors
+40,4,True,"(low poly art style:1.3),dog,white background",Low Poly,lyriel_v14.safetensors
+41,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,lyriel_v14.safetensors
+42,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,lyriel_v14.safetensors
+43,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,lyriel_v14.safetensors
+44,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,lyriel_v14.safetensors
+45,0,True,"(anime:1.3),1girl,white background,portrait",Anime,revAnimated_v122.safetensors
+46,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,revAnimated_v122.safetensors
+47,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,revAnimated_v122.safetensors
+48,3,True,"(isometric art style:1.3),building, white background,",Isometric,revAnimated_v122.safetensors
+49,4,True,"(low poly art style:1.3),dog,white background",Low Poly,revAnimated_v122.safetensors
+50,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,revAnimated_v122.safetensors
+51,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,revAnimated_v122.safetensors
+52,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,revAnimated_v122.safetensors
+53,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,revAnimated_v122.safetensors
+54,0,True,"(anime:1.3),1girl,white background,portrait",Anime,Moyou_v1020.safetensors
+55,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,Moyou_v1020.safetensors
+56,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,Moyou_v1020.safetensors
+57,3,True,"(isometric art style:1.3),building, white background,",Isometric,Moyou_v1020.safetensors
+58,4,True,"(low poly art style:1.3),dog,white background",Low Poly,Moyou_v1020.safetensors
+59,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,Moyou_v1020.safetensors
+60,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,Moyou_v1020.safetensors
+61,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,Moyou_v1020.safetensors
+62,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,Moyou_v1020.safetensors
+63,0,True,"(anime:1.3),1girl,white background,portrait",Anime,majicmixLux_v10.safetensors
+64,1,True,"(manga,outlines:1.3),1girl,white background,portrait",Manga,majicmixLux_v10.safetensors
+65,2,True,"(photorealistic,realistic:1.3),1girl,white background,portrait",Photographic,majicmixLux_v10.safetensors
+66,3,True,"(isometric art style:1.3),building, white background,",Isometric,majicmixLux_v10.safetensors
+67,4,True,"(low poly art style:1.3),dog,white background",Low Poly,majicmixLux_v10.safetensors
+68,5,True,"(lineart art style:1.3),1girl,white background,portrait",Line Art,majicmixLux_v10.safetensors
+69,6,True,"(3D:1.3),1girl,white background,portrait,dress",3D,majicmixLux_v10.safetensors
+70,7,True,"(pixel art style:1.3),1girl,white background,portrait,",Pixel Art,majicmixLux_v10.safetensors
+71,8,True,"(watercolor art style:1.3),1girl,white background,portrait,",Watercolor,majicmixLux_v10.safetensors

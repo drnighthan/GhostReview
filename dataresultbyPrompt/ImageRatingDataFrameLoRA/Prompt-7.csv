@@ -1,0 +1,141 @@
+,LoRALoss,ImageIndex,name
+0,-0.11940108575482761,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+1,-0.28799650386236814,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+2,-0.1194648123183246,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+3,-0.01182549221750909,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+4,0.12375839455440903,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+5,-0.15637772135744651,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+6,0.1319013373518405,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+7,-0.01629947183713596,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+8,-0.05368798721412145,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+9,0.4652966944174685,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+10,0.05610936735864542,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+11,-0.10631488279848812,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+12,-0.03917309093350019,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+13,-0.320559137787475,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+14,-0.1987062168496306,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+15,0.6348156791180426,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+16,-0.242565087021088,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+17,0.35529082278031815,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+18,0.18038530344239373,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+19,0.013154383517965194,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",lyriel_v14.safetensors-LoRA-7
+0,-0.1874498097054657,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+1,-0.051014751590957294,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+2,0.6348435594895726,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+3,-0.9564940121666962,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+4,0.5783361379081448,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+5,-0.779547368486177,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+6,-0.06920493684796558,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+7,-0.7088120544487007,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+8,0.38072873319092704,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+9,-0.6876398408821716,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+10,0.7860901235515669,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+11,-0.017524568162598304,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+12,-0.6784705958369512,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+13,-1.0979320740933909,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+14,-0.8992189432128496,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+15,-0.29959473841882023,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+16,4.367118140973093,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+17,0.4047925395761321,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+18,0.509264274609009,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+19,-0.4529309246125412,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",AWPainting 1.1_v1.1.safetensors-LoRA-7
+0,0.08503326136584147,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+1,-0.706938446624122,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+2,-0.20921125969550564,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+3,-0.0844796318249866,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+4,-0.19006330167535143,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+5,-0.5762842312586015,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+6,0.06935933821161872,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+7,-0.2566235886484293,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+8,0.017525041760745843,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+9,0.0711741395382646,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+10,0.18303276729355542,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+11,-0.24354300862416312,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+12,-0.1702687064667719,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+13,-0.022742649126587078,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+14,-0.11691598406728142,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+15,-0.5619133054679394,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+16,-0.35431254472351364,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+17,-1.075081063869738,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+18,-1.1746634251760757,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+19,-0.25814740324028385,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",Moyou_v1020.safetensors-LoRA-7
+0,2.680173386697448,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+1,0.6665784509557278,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+2,0.4340116375171745,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+3,0.2048265491430166,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+4,0.18328837641405252,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+5,0.5478647661366192,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+6,0.1969399183325914,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+7,-0.27770021236971304,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+8,1.4679095293816387,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+9,0.7299823987250136,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+10,1.904727476070807,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+11,0.9783869032144233,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+12,-0.21302220190816018,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+13,-0.3535990180723001,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+14,0.32402310325391664,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+15,0.24418426218982633,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+16,5.695561146475988,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+17,1.3181980257756454,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+18,1.3287346976144325,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+19,1.538603608583911,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",dreamshaper_7.safetensors-LoRA-7
+0,-0.15192365628891247,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+1,-0.4613848858402751,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+2,-0.9318244519950151,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+3,-0.11052317887765328,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+4,-1.433664930879642,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+5,-1.0513091813746698,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+6,-0.12905870587949453,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+7,-0.009005591782767311,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+8,-0.43095955182509943,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+9,0.0024764355108373003,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+10,-1.1709584986618857,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+11,-0.7653089330324911,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+12,-0.8965116185639913,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+13,-0.11831960848606989,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+14,-0.7347190111097543,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+15,-1.2797584856581576,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+16,0.005783422436425553,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+17,-1.1740739544637286,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+18,-1.2374991053727074,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+19,-1.1594446080865328,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",majicmixRealistic_v6.safetensors-LoRA-7
+0,0.823951902378052,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+1,1.3324926905500638,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+2,-0.25145564549542715,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+3,-0.3121054108485775,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+4,0.9449890295876004,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+5,-0.24173828171748182,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+6,-0.40544760614219255,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+7,-0.14297874280453174,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+8,-0.8299096281780367,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+9,-0.2574590626389818,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+10,3.1541504799927806,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+11,1.072500260213003,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+12,-0.37598367636712676,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+13,-0.789249386345339,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+14,0.7952463655663677,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+15,-0.36689631527022337,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+16,2.681242680946714,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+17,0.5096253137058798,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+18,1.6722928015359757,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+19,0.06962619319626236,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",GhostMix-V2.0-fp16-NoVAE-LoRA-7
+0,-1.1164767383598513,"00000-1-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+1,-0.8912636657733632,"00001-2-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+2,0.34795758220143663,"00002-3-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+3,-0.8857378464227815,"00003-4-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+4,-1.2181942909765926,"00004-5-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+5,-0.5621662202668181,"00005-6-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+6,-0.7229677859431423,"00006-7-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+7,-0.3636003399199453,"00007-8-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+8,-1.0684248008835937,"00008-9-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+9,-0.5932065624775069,"00009-10-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+10,-0.9774291254308026,"00010-11-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+11,1.434675657940286,"00011-12-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+12,-0.8710355190730514,"00012-13-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+13,-0.6828332882592948,"00013-14-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+14,-0.7196451016655161,"00014-15-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+15,-0.14086334890080263,"00015-16-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+16,0.020216786201984485,"00016-17-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+17,-0.4679516504909198,"00017-18-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+18,-0.5041492757125553,"00018-19-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
+19,-0.9500985126554495,"00019-20-masterpiece, best quality, 1girl, solo, long_hair, from top, light smile, panorama, perspective, looking_at_viewer, bangs, skirt.png",revAnimated_v122.safetensors-LoRA-7
